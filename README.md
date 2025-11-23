@@ -1,8 +1,8 @@
 # Análise de Dados: Doença Cardíaca
 
-==================================================
-Visão geral
-==================================================
+
+## Visão geral
+
 Este repositório contém uma análise exploratória e experimentos de modelagem sobre um conjunto de dados relacionado a doenças cardíacas. O objetivo é investigar fatores associados ao diagnóstico e construir modelos preditivos simples, com documentação clara das etapas e resultados.
 
 Sumário
